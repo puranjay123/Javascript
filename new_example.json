@@ -7,8 +7,8 @@
     },
     "models": [
       {"name": "chatglm-6b"},
-      {"name": "koala-13b"},
-      {"name": "model_b"}
+      {"name": "koala-13b"}
+ 
     ],
     "examples": [
       {
